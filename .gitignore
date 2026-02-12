@@ -1,0 +1,20 @@
+# Dependency directories (remove the comment below to include it)
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# env file
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+bin/
+hacli
+
+# AI
+AGENTS.md
